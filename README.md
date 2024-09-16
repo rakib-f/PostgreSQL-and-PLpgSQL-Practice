@@ -1,2 +1,13 @@
-# PostgreSQL-and-PLpgSQL-Practice-
-Described basic crud operations, merge, views, conditional structure, loops, cursor, functions, procedure and dynamic SQL in PostgreSQL.
+# PostgreSQL-and-PLpgSQL-Practice
+Described 
+- Basic crud operations
+- Merge
+- Views
+- Conditional structure
+- While loop
+- For loop
+- Cursor
+- Functions
+- Exceptions
+- Procedures
+- Dynamic SQL in PostgreSQL.
